@@ -1,0 +1,12 @@
+# python=3.8.16
+
+pandas
+torch
+seaborn
+gradio==4.21.0
+unstructured==0.5.6
+gunicorn==21.2.0
+bitsandbytes
+accelerate==0.21.0
+transformers==4.31.0
+scikit-learn
